@@ -27,7 +27,7 @@ void write_cpp(FILE *fp) {
 }
 
 void write_py(FILE *fp) {
-    fprintf(fp, "import sys, os, math, biect, heapq, collections, itertools, functools, re\n");
+    fprintf(fp, "import sys, os, math, bisect, heapq, collections, itertools, functools, re\n");
     fprintf(fp, "input = sys.stdin.readline\n\n");
     fprintf(fp, "############ ---- Input Functions ---- ############\n");
     fprintf(fp, "def inp():\n\treturn (int(input()))\n\n");
