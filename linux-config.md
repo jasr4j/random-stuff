@@ -66,7 +66,7 @@ Extensions:
 
 * Fedora 41 & 42 (used up to kernel 6.16.9 or so)
 
-* Debian 12 (oldstable, lts kernel, current distro of choice :) )
+* Debian 12 (oldstable, 6.1 lts kernel, current distro of choice :) )
 
 ### IMPORTANT PACKAGES
 
